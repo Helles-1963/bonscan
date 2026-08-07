@@ -1,3 +1,3 @@
-# BonScan V0.4
+# BonScan V0.5
 
-Fokus: Live-Kamera mit Bonrahmen, zentraler Ausschnitt, Schwarz-Weiss-Aufbereitung und Metzgerparser. Der XLSX-Export ist in dieser Testversion bewusst ausgesetzt.
+Dunkler Hintergrund empfohlen. Keine harte Schwarz-Weiss-Binarisierung. Zwei OCR-Durchlaeufe und blockweiser Metzgerparser mit gekennzeichneter Mengenableitung. XLSX-Export bewusst ausgesetzt.
