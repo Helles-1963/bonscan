@@ -1,3 +1,3 @@
-# BonScan V0.2
+# BonScan V0.3
 
-Lokale OCR, automatische Maskenbefuellung und Harvester-XLSX-Export. Keine Bonfotos oder Exportdateien im Repository speichern.
+Fix: OCR-Dezimalzahlen mit Punkt, Positionsparser und Button „Rohtext neu auswerten“.

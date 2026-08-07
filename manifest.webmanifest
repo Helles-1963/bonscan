@@ -1,7 +1,7 @@
 {
-  "name": "BonScan V0.2",
+  "name": "BonScan V0.3",
   "short_name": "BonScan",
-  "start_url": "./index.html?v=02",
+  "start_url": "./index.html?v=03",
   "display": "standalone",
   "background_color": "#f4f7fb",
   "theme_color": "#0b5cab",
