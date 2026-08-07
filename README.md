@@ -1,3 +1,3 @@
-# BonScan V0.5
+# BonScan V0.6
 
-Dunkler Hintergrund empfohlen. Keine harte Schwarz-Weiss-Binarisierung. Zwei OCR-Durchlaeufe und blockweiser Metzgerparser mit gekennzeichneter Mengenableitung. XLSX-Export bewusst ausgesetzt.
+Apple-Kurzbefehl Bonscan + Zwischenablage + getrennte Metzgereiprofile Hamann/Braun. Kein Tesseract. Kein Scanrahmen. XLSX-Export folgt nach stabiler Parserpruefung.
